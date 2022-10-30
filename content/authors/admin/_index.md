@@ -58,6 +58,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - icon: wexin
+    icon_pack: fab
+    https://u.wechat.com/EEc35hY2O42chRtdW2QfS2U
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
