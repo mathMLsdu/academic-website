@@ -15,7 +15,6 @@ role: doctoral student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Shandong University
-<!--     url: https://www.stanford.edu/ -->
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include numerical analysis, stochastic computing and machine learning.
