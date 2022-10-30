@@ -58,7 +58,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  - icon: wexin
+  - icon: weixin
     icon_pack: fab
     https://u.wechat.com/EEc35hY2O42chRtdW2QfS2U
 
