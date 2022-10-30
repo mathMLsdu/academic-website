@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Xu Yafei is a doctoral student of Probabilty and mathematical statistics at Shandong university. Her research interests include numerical analysis, machine
+Xu Yafei is a doctoral student of Probabilty and mathematical statistics at Shandong university. His research interests include numerical analysis, machine
 learning. 
 
 
