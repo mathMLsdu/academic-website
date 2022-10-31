@@ -48,10 +48,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/mathMLsdu
   - icon: weixin
     icon_pack: fab
     https://u.wechat.com/EEc35hY2O42chRtdW2QfS2U
