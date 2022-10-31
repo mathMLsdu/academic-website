@@ -28,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Probability and mathematical statistics
+    - course: PhD in Probaility and mathematical statistics
       institution: Shandong University
       year: 2018.09-
     - course: BSc in Petroleum Engineering
