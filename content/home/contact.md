@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: yfxusdu@163.com
-  phone: 888 888 88 88
+  phone: 17854262645
   address:
     street: 27
     city: Jinan
@@ -42,11 +42,6 @@ content:
     - 'Monday 08:00 to 23:00'
     - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
 
 design:
   columns: '2'
